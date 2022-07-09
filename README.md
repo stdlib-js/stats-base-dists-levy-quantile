@@ -72,7 +72,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.quantile;
+})();
 })();
 </script>
 ```
@@ -154,6 +156,7 @@ y = myQuantile( 0.8 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-quantile@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var mu;
 var c;
@@ -169,6 +172,7 @@ for ( i = 0; i < 10; i++ ) {
     console.log( 'p: %d, µ: %d, c: %d, Q(p;µ,c): %d', p, mu, c, y );
 }
 
+})();
 })();
 </script>
 </body>
