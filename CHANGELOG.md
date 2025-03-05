@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
+## Unreleased (2025-03-05)
+
+<section class="features">
+
+### Features
+
+-   [`2bb57c6`](https://github.com/stdlib-js/stdlib/commit/2bb57c69cdf5668f7a1490f85edd538a3f7517e4) - add C implementation for `stats/base/dists/levy/quantile` [(#4756)](https://github.com/stdlib-js/stdlib/pull/4756)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3730](https://github.com/stdlib-js/stdlib/issues/3730)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`2bb57c6`](https://github.com/stdlib-js/stdlib/commit/2bb57c69cdf5668f7a1490f85edd538a3f7517e4) - **feat:** add C implementation for `stats/base/dists/levy/quantile` [(#4756)](https://github.com/stdlib-js/stdlib/pull/4756) _(by Saurabh Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Saurabh Singh
 
 </section>
 
