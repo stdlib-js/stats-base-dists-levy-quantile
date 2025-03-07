@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-05)
+## Unreleased (2025-03-07)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d74f923`](https://github.com/stdlib-js/stdlib/commit/d74f923f42af3dd384a9565d56d0f4eec217ed14) - **chore:** remove extra empty lines [(#5839)](https://github.com/stdlib-js/stdlib/pull/5839) _(by stdlib-bot)_
 -   [`2bb57c6`](https://github.com/stdlib-js/stdlib/commit/2bb57c69cdf5668f7a1490f85edd538a3f7517e4) - **feat:** add C implementation for `stats/base/dists/levy/quantile` [(#4756)](https://github.com/stdlib-js/stdlib/pull/4756) _(by Saurabh Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
