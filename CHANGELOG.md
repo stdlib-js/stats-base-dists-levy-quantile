@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-08)
+## Unreleased (2026-07-25)
 
 <section class="commits">
 
@@ -12,6 +12,11 @@
 
 <details>
 
+-   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`2cee50a`](https://github.com/stdlib-js/stdlib/commit/2cee50a75da1437551b91682b8785dbae8ab897f) - **docs:** update Markdown equation elements [(#13547)](https://github.com/stdlib-js/stdlib/pull/13547) _(by stdlib-bot, Athan Reines)_
+-   [`36ee366`](https://github.com/stdlib-js/stdlib/commit/36ee366130c07464017ccf0b49b9645a8f644a5f) - **chore:** clean-up [(#13539)](https://github.com/stdlib-js/stdlib/pull/13539) _(by Philipp Burckhardt)_
+-   [`5447bd7`](https://github.com/stdlib-js/stdlib/commit/5447bd7b304d6f3dad93aa05ed567b934078c544) - **docs:** update descriptions [(#13511)](https://github.com/stdlib-js/stdlib/pull/13511) _(by Philipp Burckhardt)_
 -   [`04ea19c`](https://github.com/stdlib-js/stdlib/commit/04ea19c2fada1d1570f706cf9b3a9993195a2e1c) - **docs:** correct scale parameter JSDoc type in `stats/base/dists/levy` [(#12027)](https://github.com/stdlib-js/stdlib/pull/12027) _(by Philipp Burckhardt)_
 -   [`f9dbbfa`](https://github.com/stdlib-js/stdlib/commit/f9dbbfaf48e1830f1c9fb685856eac2edba3fac6) - **docs:** fix C examples [(#11138)](https://github.com/stdlib-js/stdlib/pull/11138) _(by anee3, Athan Reines)_
 -   [`bdd38d9`](https://github.com/stdlib-js/stdlib/commit/bdd38d971f4c0a24d43aca632ca5098cc0b90332) - **bench:** refactor to use string interpolation in `stats/base/dists/levy` [(#10444)](https://github.com/stdlib-js/stdlib/pull/10444) _(by Vishal Gaikwad)_
